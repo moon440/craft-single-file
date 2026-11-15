@@ -65,6 +65,16 @@ Each build lives next to its upstream project as a fork, with the same licence:
 Each fork has a `SINGLE-FILE-BUILD.md` with the exact changes and checksums, and the build as a
 release asset.
 
+## Credits
+
+All three apps — the Rust code, the UI, the rendering, the codecs and the assets — are the work
+of the **ArtCraft Team and the Craft contributors**, from
+[storytold/wordcraft](https://github.com/storytold/wordcraft),
+[storytold/filmcraft](https://github.com/storytold/filmcraft) and
+[storytold/photocraft](https://github.com/storytold/photocraft). This project only repacks their
+official web releases into single HTML files. It does not modify the apps. Credit them for the
+software; credit this repo only for the packaging.
+
 ## Licence
 
 The apps are **MIT OR Apache-2.0**, by the ArtCraft Team and the Craft contributors. This
